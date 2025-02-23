@@ -25,5 +25,3 @@ This is a simple **Number Guessing Game** implemented in Java, where the compute
 4. If you guess the number correctly, the game will congratulate you and show the time it took and the number of attempts.
 5. You can choose to play again or quit after each game.
 
-## Example Output
-
